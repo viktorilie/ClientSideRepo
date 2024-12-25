@@ -1,2 +1,3 @@
 # ClientSideRepo
-First demo file to try Github
+Demo file/repository to try Github.
+testing git features on GitHub
